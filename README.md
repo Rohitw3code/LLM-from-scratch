@@ -38,6 +38,9 @@ A sleek implementation of a GPT-2-based Large Language Model (LLM) built from sc
 ```
 LLM-from-scratch/
 ├── previous_chapters.py          # Model, dataset, and dataloader
+├── 1_Data-Tokenization.ipynb  # Multi-head attention details
+├── 2_Self_Attention_mechanism.ipynb  # Multi-head attention details
+├── 3_LLM_Architecture.ipynb      # Model architecture and generation demo
 ├── 4_Pretraining_on_unlabeled_Data.ipynb  # Training and evaluation
 ├── requirements.txt              # Dependencies
 └── README.md                     # Documentation
@@ -71,8 +74,3 @@ LLM-from-scratch/
 4. Push (`git push origin feature`).
 5. Open a pull request.
 
-## 📜 License
-MIT License. See [LICENSE](LICENSE).
-
-## 🙌 Acknowledgments
-Inspired by OpenAI's GPT-2 and *LLMs from Scratch* by Sebastian Raschka.
